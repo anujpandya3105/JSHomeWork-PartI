@@ -1,1 +1,3 @@
 # JSHomeWork-PartI
+
+SEARCH BY DATE ONLY
